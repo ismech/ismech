@@ -13,13 +13,13 @@
 
 Languages and Tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/ismech/ismech@main/public/img/java.png" alt="java"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/ismech/ismech@main/public/img/python.png" alt="python"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/ismech/ismech@main/public/img/cpp.png" alt="cpp"></code>
 
 
 <!--
-**Ryyyc/ismech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ismech/ismech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
